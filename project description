@@ -1,0 +1,1 @@
+The goal of this project is to develop a more secure password system  excluding the extra computation. Instead of recording only the password of a user, this system also checks the rhythm in which the password is entered. This adds not only an extra variable to the system but also a new security feature without requirement of an extra hardware.	
